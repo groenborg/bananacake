@@ -1,16 +1,19 @@
 ## Dry Ingredients
-1 + 1/3 cups flour 220g
-1 teaspoon baking soda
-2/3 cup sugar (with some vanilla sugar 3 tap  too) 150g
-2 tbsp cinnamon (or more?)
+- 220g plain flour
+- 1 teaspoon baking soda
+- 150g sugar 
+- 3-4 teaspoons vanilla sugar
+- 3 teaspoons cinnamon 
 
 ## Wet Ingredients
-4 bananas 430g
-2 eggs
-100g butter
-0.5-1 cup buttermilk
-squeeze of lemon
+- 4 bananas 430g
+- 2 eggs
+- 100g butter
+- 0.5 cup buttermilk
+- squeeze of lemon
 
 ## Method
-Mix wet and dry ingredients separately, then mix together. Put into buttered and floured baking pan. 
-Bake at 180 degrees C for 50 minutes
+- Mix dry ingredients in a bowl.
+- Mix wet ingredients in a separtae bowl.
+- Mix wet and dry ingredients together with a spatula, and scoop into a buttered and floured baking pan.
+- Bake at 180 degrees C for 60 minutes
