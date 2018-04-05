@@ -17,3 +17,8 @@
 - Mix wet ingredients in a separtae bowl.
 - Mix wet and dry ingredients together with a spatula, and scoop into a buttered and floured baking pan.
 - Bake at 180 degrees C for 60 minutes
+
+## Score: 8/10
+
+## Comments
+Delicious.
