@@ -1,7 +1,22 @@
 # Banana Cake
 The best banana cake recipe in the world, by everyone
+```
+ _
+//\
+V  \
+ \  \_
+  \,'.`-.
+   |\ `. `.       
+   ( \  `. `-.                        _,.-:\
+    \ \   `.  `-._             __..--' ,-';/
+     \ `.   `-.   `-..___..---'   _.--' ,'/
+      `. `.    `-._        __..--'    ,' /
+        `. `-_     ``--..''       _.-' ,'
+          `-_ `-.___        __,--'   ,'
+             `-.__  `----"""    __.-'
+                  `--..____..--'
 
-
+```
 ## About Cake
 We are a group of people in a dorm in Denmark, near the Danish Technical University (DTU), set on creating the best banan cake in the world. Over an extended period of time we have been baking cake after cake to achieve our goal, and oh we have come so close, but we are not quite there. 
 
