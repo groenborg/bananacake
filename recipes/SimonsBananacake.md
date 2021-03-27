@@ -1,6 +1,7 @@
 ## Ingredients
 ### Dry Ingredients
 - 170g sugar
+- 150g flour
 - 2ts vanilla sugar 
 - 1ts baking powder
 
